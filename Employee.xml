@@ -1,0 +1,12 @@
+<Employees>
+    <Employee>
+        <ID>001</ID>
+        <Name>Tissana</Name>
+        <Salary>30000</Salary>
+    </Employee>
+    <Employee>
+        <ID>002</ID>
+        <Name>Sunisa</Name>
+        <Salary>35000</Salary>
+    </Employee>
+</Employees>
